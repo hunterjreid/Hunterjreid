@@ -5,6 +5,5 @@
 - 👯 I’m looking to collaborate on anything related to health
 - 💬 Ask me about cryptocurrencies
 - 📫 How to reach me: hunterjreid@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im from New Zealand 
 
