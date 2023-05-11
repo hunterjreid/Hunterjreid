@@ -3,16 +3,19 @@
 <hr>
 <h2>Welcome</h2>
 
-👋 Hey there! It's Hunter! 💢  
-🔭 Currently juggling portfolio projects, uni work, and companies. 🌱  
-👯 Collaborating on health, doctor, and medicine-related projects is my jam! 💬  
-⚡ Fun fact: I'm from New Zealand! 🇳🇿  
-💬 Ask me about cryptocurrencies! 💰  
-📫 Reach me at hunterjreid@gmail.com 📧    
-🛡️ Hunter: The trusted authority in cyber security! 💻  
-🔍 Meticulous & skilled in safeguarding against threats. 🛡️  
-🔝 Staying ahead of the curve with latest advancements. 💪  
-Let's connect and I'll respond lightning-fast! ⚡😃   
+🎉👋 Hey there! I am absolutely thrilled to introduce myself to you! My name is <b>Hunter</b>, and right now, I am juggling my academic work with a bunch of projects for both my portfolio and other businesses. 💼💻💪
+
+Although it can be quite challenging at times, I am determined to succeed! 💯
+
+I am incredibly passionate about making a difference in the world of health, physicians, and medicine. There's nothing that brings me more joy than using my talents to contribute to a cause that can enhance the lives of others. 😊❤️
+
+Fun fact, I hail from New Zealand - a gorgeous country that I am so proud to call home! 🇳🇿
+
+If you ever want to chat about cryptocurrency, don't hesitate to reach out to me. I am always ready to share my expertise and learn new things! You can hit me up at Hunterjreid@gmail.com, or check out my website, hunterjreid.com! 💰💻🚀
+
+My life's work is centered around protecting people and their information. I am incredibly careful and confident in my skills when it comes to cyber security. I make it my top priority to stay on top of the latest developments in my industry to ensure that my clients' information is always safeguarded. 🔒🛡️
+
+So, let's connect! I promise to get back to you as soon as I can, and I am excited to get to know you better. Thank you so much for reading my introduction, and good luck to you! 🤝🍀
 <hr>
 <h2>Connect</h2>
 <div id="badges">
