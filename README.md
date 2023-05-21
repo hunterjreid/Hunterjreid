@@ -3,19 +3,25 @@
 <hr>
 <h2>Welcome</h2>
 
-🎉👋 Hey there! I am absolutely thrilled to introduce myself to you! My name is <b>Hunter</b>, and right now, I am juggling my academic work with a bunch of projects for both my portfolio and other businesses. 💼💻💪
+🎉👋 Good day! It gives me the utmost pleasure to introduce myself to you. My name is Hunter, and I'm currently balancing a tonne of tasks for both my portfolio and other businesses with my academic work. 💼💻💪
 
-Although it can be quite challenging at times, I am determined to succeed! 💯
+Even though it often seems very difficult, I'm motivated to succeed!
 
-I am incredibly passionate about making a difference in the world of health, physicians, and medicine. There's nothing that brings me more joy than using my talents to contribute to a cause that can enhance the lives of others. 😊❤️
+Making a difference in the world of medicine, healthcare, and physicians is something I am really enthusiastic about. Nothing makes me happier than utilising my skills to support a cause that can improve the lives of others. 😊❤️
 
-Fun fact, I hail from New Zealand - a gorgeous country that I am so proud to call home! 🇳🇿
+Fun fact: I'm from New Zealand🇳🇿, which is a stunning nation that I'm very happy to call home.
 
-If you ever want to chat about cryptocurrency, don't hesitate to reach out to me. I am always ready to share my expertise and learn new things! You can hit me up at Hunterjreid@gmail.com, or check out my website, hunterjreid.com! 💰💻🚀
 
-My life's work is centered around protecting people and their information. I am incredibly careful and confident in my skills when it comes to cyber security. I make it my top priority to stay on top of the latest developments in my industry to ensure that my clients' information is always safeguarded. 🔒🛡️
 
-So, let's connect! I promise to get back to you as soon as I can, and I am excited to get to know you better. Thank you so much for reading my introduction, and good luck to you! 🤝🍀
+
+The goal of my life's job is to keep individuals and their information safe. When it comes to cyber security, I take extreme precautions and have complete faith in my abilities. To make sure that my clients' information is always protected, I make it my top goal to keep up with the most recent advances in my business.🔒🛡️
+
+So let's get in touch! I'll get back to you as soon as I can, and I'm eager to learn more about you. I appreciate you reading my introduction, and I wish you well! 🤝🍀
+
+Visit my website, https://hunterjreid.com, or send me an email at Hunterjreid@gmail.com. 💰💻🚀
+
+![wewqeqwqwe](https://github.com/hunterjreid/hunterjreid/assets/62681404/3d988d89-0f06-4eac-a067-7fce5f1e8505)
+
 <hr>
 <h2>Connect</h2>
 <div id="badges">
