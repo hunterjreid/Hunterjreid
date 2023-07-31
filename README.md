@@ -1,22 +1,17 @@
 ![e2112e12ee2112e12e12e](https://user-images.githubusercontent.com/62681404/231313733-e629ebf6-6317-4acd-92e9-341ec14868a3.png)
 
 <hr>
-<h2>Welcome</h2>
+<h2>Hi, I'm Hunter</h2>
 
-🎉👋 Good day! It gives me the utmost pleasure to introduce myself to you. My name is Hunter, and I'm currently balancing a tonne of tasks for both my portfolio and other businesses with my academic work. 💼💻💪
+Greetings and a warm welcome! I take immense pleasure in presenting myself to you. I go by the name of Hunter, and currently, I am adeptly handling a myriad of responsibilities for my portfolio and various business ventures, all while diligently pursuing my academic endeavors. 💼💻💪
 
-Even though it often seems very difficult, I'm motivated to succeed!
+I'm determined to succeed, no matter the challenges! I'm super into in medicine, biopharmaceuticals, AI cybersecurity, aerospace techs, photolithography and more. Using my skills to help others just makes me happy! 🎨😃
 
-Making a difference in the world of medicine, healthcare, and physicians is something I am really enthusiastic about. Nothing makes me happier than utilising my skills to support a cause that can improve the lives of others. 😊❤️
+Fun fact: I'm from the stunningly beautiful New Zealand, and I'm proud to call it home. 😄🇳🇿
 
-Fun fact: I'm from New Zealand🇳🇿, which is a stunning nation that I'm very happy to call home.
+In life, my ultimate mission is to ensure the safety and protection of people and their valuable information. Cybersecurity is my passion, and I take every precaution possible, trusting in my abilities to handle it with expertise. My main focus is to stay updated with the latest advancements in this field to guarantee that everyone's data remains safeguarded.🔒🛡️
 
-
-
-
-The goal of my life's job is to keep individuals and their information safe. When it comes to cyber security, I take extreme precautions and have complete faith in my abilities. To make sure that my clients' information is always protected, I make it my top goal to keep up with the most recent advances in my business.🔒🛡️
-
-So let's get in touch! I'll get back to you as soon as I can, and I'm eager to learn more about you. I appreciate you reading my introduction, and I wish you well! 🤝🍀
+If you want to connect, feel free to reach out! I'll respond as soon as possible and I'm always eager to learn more about you. Thanks for taking the time to read my introduction, and I wish you all the best! 🤝🍀
 
 Visit my website, https://hunterjreid.com, or send me an email at Hunterjreid@gmail.com. 💰💻🚀
 
