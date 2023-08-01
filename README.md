@@ -3,17 +3,17 @@
 <hr>
 <h2>Hi, I'm Hunter</h2>
 
-Greetings and a warm welcome! I take immense pleasure in presenting myself to you. I go by the name of Hunter, and currently, I am adeptly handling a myriad of responsibilities for my portfolio and various business ventures, all while diligently pursuing my academic endeavors. 💼💻💪
+Greetings and a warm welcome! I take immense pleasure in presenting myself to you. I go by the name of Hunter, and currently, I am adeptly handling a myriad of responsibilities for my portfolio and various business ventures, all while diligently pursuing my academic endeavors. 💪
 
-I'm determined to succeed, no matter the challenges! I'm super into in medicine, biopharmaceuticals, AI cybersecurity, aerospace techs, photolithography and more. Using my skills to help others just makes me happy! 🎨😃
+I'm determined to succeed, no matter the challenges! I'm super into in medicine, biopharmaceuticals, AI cybersecurity, aerospace techs, photolithography and more. Using my skills to help others just makes me happy! 😃
 
-Fun fact: I'm from the stunningly beautiful New Zealand, and I'm proud to call it home. 😄🇳🇿
+Fun fact: I'm from the stunningly beautiful New Zealand, and I'm proud to call it home.🇳🇿
 
-In life, my ultimate mission is to ensure the safety and protection of people and their valuable information. Cybersecurity is my passion, and I take every precaution possible, trusting in my abilities to handle it with expertise. My main focus is to stay updated with the latest advancements in this field to guarantee that everyone's data remains safeguarded.🔒🛡️
+In life, my ultimate mission is to ensure the safety and protection of people and their valuable information. Cybersecurity is my passion, and I take every precaution possible, trusting in my abilities to handle it with expertise. My main focus is to stay updated with the latest advancements in this field to guarantee that everyone's data remains safeguarded.🔒🛡
 
-If you want to connect, feel free to reach out! I'll respond as soon as possible and I'm always eager to learn more about you. Thanks for taking the time to read my introduction, and I wish you all the best! 🤝🍀
+If you want to connect, feel free to reach out! I'll respond as soon as possible and I'm always eager to learn more about you. Thanks for taking the time to read my introduction, and I wish you all the best! 🤝
 
-Visit my website, https://hunterjreid.com, or send me an email at Hunterjreid@gmail.com. 💰💻🚀
+Visit my website, https://hunterjreid.com, or send me an email at Hunterjreid@gmail.com. 🚀
 
 ![wewqeqwqwe](https://github.com/hunterjreid/hunterjreid/assets/62681404/3d988d89-0f06-4eac-a067-7fce5f1e8505)
 
