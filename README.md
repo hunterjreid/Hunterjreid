@@ -93,7 +93,7 @@ Visit my website, https://hunterjreid.com, or send me an email at Hunterjreid@gm
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hunterjreid)
 
 
-<h2>Visit some of my pages..</h2>
+<h2>Visit some of my pages.. (coming soon)</h2>
 
 <img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/da811b6a-6941-4bc0-a0b1-e2bf760175c1" alt="Image 4" width="130px">
 <img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/19d97013-8e14-496d-a74f-4a44a2ca9205" alt="Image 2" width="130px">
