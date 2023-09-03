@@ -4,6 +4,16 @@
 <hr>
 <h2>Hi, I'm Hunter</h2>
 
+
+<img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/06c8d375-8162-4e3f-a576-0ff17df13268" alt="Image 4" width="130px">
+<img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/43ca98f0-5160-4cb5-bfa0-8607e63fea6e" alt="Image 4" width="130px">
+<img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/7454cd3a-c4b2-4b13-8f38-736098ab955e" alt="Image 4" width="130px">
+<img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/0cb6f6d6-8a7c-4912-9378-239961634f0e" alt="Image 4" width="130px">
+
+
+
+
+
 Greetings and a warm welcome! I take immense pleasure in presenting myself to you. I go by the name of Hunter, and currently, I am adeptly handling a myriad of responsibilities for my portfolio and various business ventures, all while diligently pursuing my academic endeavors. 💪
 
 I'm determined to succeed, no matter the challenges! I'm super into in medicine, biopharmaceuticals, AI cybersecurity, aerospace techs, photolithography and more. Using my skills to help others just makes me happy! 😃
@@ -92,12 +102,5 @@ Visit my website, https://hunterjreid.com, or send me an email at Hunterjreid@gm
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hunterjreid)
 
-
-<h2>Visit some of my pages.. (coming soon)</h2>
-
-<img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/da811b6a-6941-4bc0-a0b1-e2bf760175c1" alt="Image 4" width="130px">
-<img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/19d97013-8e14-496d-a74f-4a44a2ca9205" alt="Image 2" width="130px">
-<img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/18b083e3-54c4-4a2f-9c60-f1c6b16eea2c" alt="Image 3" width="130px">
-<img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/dbe79b8f-ab4f-4aa7-a128-b8bd10b7a670" alt="Image 1" width="130px">
 
 
