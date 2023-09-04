@@ -86,9 +86,11 @@ Visit my website, https://hunterjreid.com, or send me an email at Hunterjreid@gm
 ![v1](https://github.com/hunterjreid/hunterjreid/assets/62681404/33753bb0-b754-49ea-b59d-387867b4c80a)
 ![v1](https://github.com/hunterjreid/hunterjreid/assets/62681404/2f6c451a-71d6-4040-b959-e9444922fb4b)
 ![v1](https://github.com/hunterjreid/hunterjreid/assets/62681404/5d12b5ba-1f7f-4f47-b57c-33dcf13c22a1)
+![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)
 ![v1](https://github.com/hunterjreid/hunterjreid/assets/62681404/b29af9e2-b750-4618-886b-c3398edb8f80)
 ![v1](https://github.com/hunterjreid/hunterjreid/assets/62681404/2c87c31a-d586-4803-9de2-959caec25324)
 ![v1](https://github.com/hunterjreid/hunterjreid/assets/62681404/9449f277-4acf-4a04-b459-8752c2581a84)
+
 ![v1](https://github.com/hunterjreid/hunterjreid/assets/62681404/9b3e13a5-19ef-4684-bc07-ea2911e3cc2f)
 ![v1](https://github.com/hunterjreid/hunterjreid/assets/62681404/15ac29c3-2294-48b5-bba0-b6e4fe6e6b15)
 ![v1](https://github.com/hunterjreid/hunterjreid/assets/62681404/3bd165ac-c9ab-4243-b70a-4eabfb94f64f)
