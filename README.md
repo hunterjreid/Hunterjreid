@@ -90,7 +90,6 @@ Visit my website, https://hunterjreid.com, or send me an email at Hunterjreid@gm
 ![v1](https://github.com/hunterjreid/hunterjreid/assets/62681404/b29af9e2-b750-4618-886b-c3398edb8f80)
 ![v1](https://github.com/hunterjreid/hunterjreid/assets/62681404/2c87c31a-d586-4803-9de2-959caec25324)
 ![v1](https://github.com/hunterjreid/hunterjreid/assets/62681404/9449f277-4acf-4a04-b459-8752c2581a84)
-
 ![v1](https://github.com/hunterjreid/hunterjreid/assets/62681404/9b3e13a5-19ef-4684-bc07-ea2911e3cc2f)
 ![v1](https://github.com/hunterjreid/hunterjreid/assets/62681404/15ac29c3-2294-48b5-bba0-b6e4fe6e6b15)
 ![v1](https://github.com/hunterjreid/hunterjreid/assets/62681404/3bd165ac-c9ab-4243-b70a-4eabfb94f64f)
