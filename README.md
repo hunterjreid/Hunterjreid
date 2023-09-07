@@ -15,8 +15,8 @@
 
 [CYBER SEC 101](https://docs.google.com/document/d/e/2PACX-1vTYdP7Cgc4NayFY9OAwCAF2E1BD1NalbtlTc5I8t65szWtccUrVEvDlzFYuRj2fcIncCm7zKKqRUT-t/pub)
 [BUG BOUNTIES](https://docs.google.com/document/d/e/2PACX-1vRDURL8whqOvqkI0q0mrZSLPZSO7PLHmFmApuD7qi1iic7fjw6Hiu7u_kjY2vwJJuDzCNEqF10nf6Km/pub)
-
-
+[SOFT SKILLS](https://docs.google.com/document/d/e/2PACX-1vQYInY_A40zERykmlSEhosAMTDrYb4hLgCWo6haSaK8Z7BcOfjGVP10wrwx7VTt1qQYPFCvBzL7Eqs6/pub)
+[DATA STRUCTURES & ALGORITHMS](https://docs.google.com/document/d/e/2PACX-1vS8nvBHP8WcfiBTQAEd0liACcOEG-Ibk6pK31YW01A0TMOWhr7xwbCRTS5yhP7oL4pprhVtQM9LFliX/pub)
 
 
 Greetings and a warm welcome! I take immense pleasure in presenting myself to you. I go by the name of Hunter, and currently, I am adeptly handling a myriad of responsibilities for my portfolio and various business ventures, all while diligently pursuing my academic endeavors. 💪
