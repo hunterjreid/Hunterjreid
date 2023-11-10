@@ -101,10 +101,7 @@ Visit my website, https://hunterjreid.com, or send me an email at Hunterjreid@gm
 
 <hr>
 
-<h2>Other things!</h2>
 
-![Counter-Strike](https://img.shields.io/static/v1?style=for-the-badge&message=Counter-Strike&color=000000&logo=Counter-Strike&logoColor=FFFFFF&label=)
-![McDonald's](https://img.shields.io/static/v1?style=for-the-badge&message=McDonald%27s&color=222222&logo=McDonald%27s&logoColor=FBC817&label=)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hunterjreid)
