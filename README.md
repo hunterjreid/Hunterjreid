@@ -4,6 +4,9 @@
 <hr>
 <h2>Hi, I'm Hunter</h2>
 
+[![name](link to image on GH)](link to your URL)
+
+
   <a href="https://docs.google.com/document/d/e/2PACX-1vTYdP7Cgc4NayFY9OAwCAF2E1BD1NalbtlTc5I8t65szWtccUrVEvDlzFYuRj2fcIncCm7zKKqRUT-t/pub">
     <img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/06c8d375-8162-4e3f-a576-0ff17df13268" alt="Image 4" width="130px">
   </a>
