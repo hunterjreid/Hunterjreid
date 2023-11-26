@@ -4,22 +4,8 @@
 <hr>
 <h2>Hi, I'm Hunter</h2>
 
-[![name](link to image on GH)](link to your URL)
 
 
-  <a href="https://docs.google.com/document/d/e/2PACX-1vTYdP7Cgc4NayFY9OAwCAF2E1BD1NalbtlTc5I8t65szWtccUrVEvDlzFYuRj2fcIncCm7zKKqRUT-t/pub">
-    <img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/06c8d375-8162-4e3f-a576-0ff17df13268" alt="Image 4" width="130px">
-  </a>
-  <a href="https://docs.google.com/document/d/e/2PACX-1vRDURL8whqOvqkI0q0mrZSLPZSO7PLHmFmApuD7qi1iic7fjw6Hiu7u_kjY2vwJJuDzCNEqF10nf6Km/pub">
-<img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/43ca98f0-5160-4cb5-bfa0-8607e63fea6e" alt="Image 4" width="130px">
-  </a>
-<img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/7454cd3a-c4b2-4b13-8f38-736098ab955e" alt="Image 4" width="130px">
-<img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/0cb6f6d6-8a7c-4912-9378-239961634f0e" alt="Image 4" width="130px">
-
-[CYBER SEC 101](https://docs.google.com/document/d/e/2PACX-1vTYdP7Cgc4NayFY9OAwCAF2E1BD1NalbtlTc5I8t65szWtccUrVEvDlzFYuRj2fcIncCm7zKKqRUT-t/pub)
-[BUG BOUNTIES](https://docs.google.com/document/d/e/2PACX-1vRDURL8whqOvqkI0q0mrZSLPZSO7PLHmFmApuD7qi1iic7fjw6Hiu7u_kjY2vwJJuDzCNEqF10nf6Km/pub)
-[SOFT SKILLS](https://docs.google.com/document/d/e/2PACX-1vQYInY_A40zERykmlSEhosAMTDrYb4hLgCWo6haSaK8Z7BcOfjGVP10wrwx7VTt1qQYPFCvBzL7Eqs6/pub)
-[DATA STRUCTURES & ALGORITHMS](https://docs.google.com/document/d/e/2PACX-1vS8nvBHP8WcfiBTQAEd0liACcOEG-Ibk6pK31YW01A0TMOWhr7xwbCRTS5yhP7oL4pprhVtQM9LFliX/pub)
 
 
 Greetings and a warm welcome! I take immense pleasure in presenting myself to you. I go by the name of Hunter, and currently, I am adeptly handling a myriad of responsibilities for my portfolio and various business ventures, all while diligently pursuing my academic endeavors. 💪
@@ -33,6 +19,21 @@ In life, my ultimate mission is to ensure the safety and protection of people an
 If you want to connect, feel free to reach out! I'll respond as soon as possible and I'm always eager to learn more about you. Thanks for taking the time to read my introduction, and I wish you all the best! 🤝
 
 Visit my website, https://hunterjreid.com, or send me an email at Hunterjreid@gmail.com. 🚀
+
+<h3><i>Check out my Articles :</i>
+<a href="https://docs.google.com/document/d/e/2PACX-1vTYdP7Cgc4NayFY9OAwCAF2E1BD1NalbtlTc5I8t65szWtccUrVEvDlzFYuRj2fcIncCm7zKKqRUT-t/pub">
+<img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/06c8d375-8162-4e3f-a576-0ff17df13268" alt="Image 4" width="130px">
+</a>
+<a href="https://docs.google.com/document/d/e/2PACX-1vRDURL8whqOvqkI0q0mrZSLPZSO7PLHmFmApuD7qi1iic7fjw6Hiu7u_kjY2vwJJuDzCNEqF10nf6Km/pub">
+<img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/43ca98f0-5160-4cb5-bfa0-8607e63fea6e" alt="Image 4" width="130px">
+</a>
+<a href="https://docs.google.com/document/d/e/2PACX-1vQYInY_A40zERykmlSEhosAMTDrYb4hLgCWo6haSaK8Z7BcOfjGVP10wrwx7VTt1qQYPFCvBzL7Eqs6/pub">
+<img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/7454cd3a-c4b2-4b13-8f38-736098ab955e" alt="Image 4" width="130px">
+</a>
+<a href="https://docs.google.com/document/d/e/2PACX-1vQYInY_A40zERykmlSEhosAMTDrYb4hLgCWo6haSaK8Z7BcOfjGVP10wrwx7VTt1qQYPFCvBzL7Eqs6/pub">
+<img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/0cb6f6d6-8a7c-4912-9378-239961634f0e" alt="Image 4" width="130px">
+</a></h3>
+
 
 ![wewqeqwqwe](https://github.com/hunterjreid/hunterjreid/assets/62681404/3d988d89-0f06-4eac-a067-7fce5f1e8505)
 
