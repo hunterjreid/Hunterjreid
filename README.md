@@ -42,19 +42,15 @@ Visit my website, https://hunterjreid.com, or send me an email at Hunterjreid@gm
 <h2>Connect</h2>
 <div id="badges">
   <a href="https://www.linkedin.com/in/hunterjreid">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="linkedin Badge"/>
-  </a>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="linkedin Badge"/></a>
   </a>
   <a href="https://twitter.com/hunterjreid">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" alt="Twitter Badge"/>
-  </a>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" alt="Twitter Badge"/></a>
   </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=hunterjreid@gmail.com&tf=cm">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Gmail Badge"/>
-  </a>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Gmail Badge"/></a>
     <a href="https://www.youtube.com/channel/UCgcva0g5iBWqKCR-nEFteVA">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" alt="Gmail Badge"/>
-  </a>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" alt="Gmail Badge"/></a>
 </div>  
 
 
