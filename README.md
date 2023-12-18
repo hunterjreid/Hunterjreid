@@ -9,7 +9,7 @@
 
 
 
-Greetings and a warm welcome! My name is Hunter, and I hold a Bachelor's degree in Software Engineering. Additionally, I am certified in Azure AI Fundamentals (AZ-900) and have earned the IBM Cybersecurity Analyst Professional Certificate. I take great pride in managing a diverse range of responsibilities across my portfolio and various business ventures, all while actively pursuing ongoing academic achievements. 💪
+Greetings and a warm welcome! My name is Hunter, and I hold a Bachelor's degree in Software Engineering. Additionally, I am certified in Azure AI Fundamentals (AZ-900) and have earned the IBM Cybersecurity Analyst Professional Certificate. I take great pride in managing a diverse range of responsibilities across my portfolio and various business ventures. 💪
 
 I'm determined to succeed, no matter the challenges! I'm super into in medicine, biopharmaceuticals, AI cybersecurity, aerospace techs, photolithography and more. Using my skills to help others just makes me happy! 😃
 
