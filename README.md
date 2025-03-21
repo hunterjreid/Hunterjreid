@@ -25,9 +25,6 @@ Visit my website, https://hunterjreid.com, or send me an email at Hunterjreid@gm
 <a href="https://docs.google.com/document/d/e/2PACX-1vTYdP7Cgc4NayFY9OAwCAF2E1BD1NalbtlTc5I8t65szWtccUrVEvDlzFYuRj2fcIncCm7zKKqRUT-t/pub">
 <img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/06c8d375-8162-4e3f-a576-0ff17df13268" alt="Image 4" width="130px">
 </a>
-<a href="https://docs.google.com/document/d/e/2PACX-1vRDURL8whqOvqkI0q0mrZSLPZSO7PLHmFmApuD7qi1iic7fjw6Hiu7u_kjY2vwJJuDzCNEqF10nf6Km/pub">
-<img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/43ca98f0-5160-4cb5-bfa0-8607e63fea6e" alt="Image 4" width="130px">
-</a>
 <a href="https://docs.google.com/document/d/e/2PACX-1vQYInY_A40zERykmlSEhosAMTDrYb4hLgCWo6haSaK8Z7BcOfjGVP10wrwx7VTt1qQYPFCvBzL7Eqs6/pub">
 <img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/7454cd3a-c4b2-4b13-8f38-736098ab955e" alt="Image 4" width="130px">
 </a>
