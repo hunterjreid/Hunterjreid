@@ -26,7 +26,8 @@ Visit my website, https://hunterjreid.com, or send me an email at Hunterjreid@gm
 </a></h3>
 
 
-![wewqeqwqwe](https://github.com/hunterjreid/hunterjreid/assets/62681404/3d988d89-0f06-4eac-a067-7fce5f1e8505)
+![eqwqwewewq](https://github.com/user-attachments/assets/68aaf6d9-8b4e-45c4-8f1b-13f90dd31bbe)
+
 
 <hr>
 <h2>Connect</h2>
