@@ -8,16 +8,9 @@
 
 
 
+Hi, I'm Hunter. I studied Software Engineering and have a deep interest in AI, cybersecurity, aerospace, and biopharma. I’m always learning and doing my best to grow through the projects I work on.  
 
-Greetings and a warm welcome! My name is Hunter, and I hold a Bachelor's degree in Software Engineering. Additionally, I am certified in Azure AI Fundamentals (AZ-900) and have earned the IBM Cybersecurity Analyst Professional Certificate. I take great pride in managing a diverse range of responsibilities across my portfolio and various business ventures. 💪
-
-I'm determined to succeed, no matter the challenges! I'm super into in medicine, biopharmaceuticals, AI cybersecurity, aerospace techs, photolithography and more. Using my skills to help others just makes me happy! 😃
-
-Fun fact: I'm from the stunningly beautiful New Zealand, and I'm proud to call it home.🇳🇿
-
-In life, my ultimate mission is to ensure the safety and protection of people and their valuable information. Cybersecurity is my passion, and I take every precaution possible, trusting in my abilities to handle it with expertise. My main focus is to stay updated with the latest advancements in this field to guarantee that everyone's data remains safeguarded.🔒🛡
-
-If you want to connect, feel free to reach out! I'll respond as soon as possible and I'm always eager to learn more about you. Thanks for taking the time to read my introduction, and I wish you all the best! 🤝
+I'm from New Zealand 🇳🇿 and care a lot about helping protect people and their information. Thanks for taking the time to read this — I’m always open to connect and learn from others. 🤝   
 
 Visit my website, https://hunterjreid.com, or send me an email at Hunterjreid@gmail.com. 🚀
 
