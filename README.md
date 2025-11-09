@@ -8,22 +8,12 @@
 
 
 
-Hi, I'm Hunter. I studied Software Engineering and have a deep interest in AI, cybersecurity, aerospace, and biopharma. I’m always learning and doing my best to grow through the projects I work on.  
+Hi, I'm Hunter. I studied Software Engineering and have a deep interest in AI, ML, cybersecurity, aerospace, and biopharma.
 
-I'm from New Zealand 🇳🇿 and care a lot about helping protect people and their information. Thanks for taking the time to read this — I’m always open to connect and learn from others. 🤝   
+I'm from New Zealand 🇳🇿 and care a lot using technology to make the world a better place. Thanks for taking the time to read this — I’m always open to connect 🤝   
 
-Visit my website, https://hunterjreid.com, or send me an email at Hunterjreid@gmail.com. 🚀
+Visit my website, https://hunterjreid.com, or send me an email at hunterjreid@gmail.com. 🚀
 
-<h3><i>Check out my Articles :</i>
-<a href="https://docs.google.com/document/d/e/2PACX-1vTYdP7Cgc4NayFY9OAwCAF2E1BD1NalbtlTc5I8t65szWtccUrVEvDlzFYuRj2fcIncCm7zKKqRUT-t/pub">
-<img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/06c8d375-8162-4e3f-a576-0ff17df13268" alt="Image 4" width="130px">
-</a>
-<a href="https://docs.google.com/document/d/e/2PACX-1vQYInY_A40zERykmlSEhosAMTDrYb4hLgCWo6haSaK8Z7BcOfjGVP10wrwx7VTt1qQYPFCvBzL7Eqs6/pub">
-<img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/7454cd3a-c4b2-4b13-8f38-736098ab955e" alt="Image 4" width="130px">
-</a>
-<a href="https://docs.google.com/document/d/e/2PACX-1vQYInY_A40zERykmlSEhosAMTDrYb4hLgCWo6haSaK8Z7BcOfjGVP10wrwx7VTt1qQYPFCvBzL7Eqs6/pub">
-<img src="https://github.com/hunterjreid/Hunterjreid/assets/62681404/0cb6f6d6-8a7c-4912-9378-239961634f0e" alt="Image 4" width="130px">
-</a></h3>
 
 
 ![eqwqwewewq](https://github.com/user-attachments/assets/68aaf6d9-8b4e-45c4-8f1b-13f90dd31bbe)
